@@ -11,7 +11,7 @@ Script to download Path of Exile's base item art off the PoE Wiki.
 ---
 
 ### Usage:
-1. `git clone https://github.com/cywang117/poe-base-item-downloader`
+1. `git clone`
 2. `npm i`
     * Ensure `node.js` is installed.
 3. Follow the [instructions](https://github.com/brather1ng/RePoE) to install brather1ng's RePoE
