@@ -1,5 +1,12 @@
-# Path of Exile Base Item Downloader
+# Path of Exile Base Item Downloader :crossed_swords:
 Script to download Path of Exile's base item art off the PoE Wiki
+
+<p align="center">
+  <img src="./assets/AbyssJewelRanged.png">
+  <img src="./assets/CurrencyRerollRare.png">
+  <img src="./assets/Amulet8.png">
+  <img src="./assets/SupportGemMultistrikePlus.png">
+</p>
 
 ---
 
