@@ -1,5 +1,6 @@
 # Path of Exile Base Item Downloader :crossed_swords:
-Script to download Path of Exile's base item art off the PoE Wiki
+Script to download Path of Exile's base item art off the PoE Wiki.
+*Libraries: Node.js, axios, cheerio*
 
 <p align="center">
   <img src="./assets/AbyssJewelRanged.png">
@@ -31,7 +32,9 @@ For items not listed in `base_items.min.json` or additional features, feel free 
 
 ---
 
-### Special thanks to:
+### Credits:
 * [PyPoE](https://github.com/OmegaK2/PyPoE)
 * [RePoE](https://github.com/brather1ng/RePoE)
+* [axios](https://github.com/axios/axios)
+* [cheerio](https://github.com/cheeriojs/cheerio)
 * [Grinding Gear Games](http://www.grindinggear.com/) -- All Path of Exile content belongs to them. Please don't use their files without permission ^^
