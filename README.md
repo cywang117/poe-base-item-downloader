@@ -1,6 +1,5 @@
 # Path of Exile Base Item Downloader :crossed_swords:
 Script to download Path of Exile's base item art off the PoE Wiki.
-*Libraries: Node.js, axios, cheerio*
 
 <p align="center">
   <img src="./assets/AbyssJewelRanged.png">
