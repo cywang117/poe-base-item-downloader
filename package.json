@@ -4,7 +4,7 @@
   "description": "Script to download Path of Exile's base item art off the PoE Wiki",
   "main": "index.js",
   "scripts": {
-    "scrape": "node getBaseItemPNGs.js"
+    "dl": "node getBaseItemPNGs.js"
   },
   "repository": {
     "type": "git",

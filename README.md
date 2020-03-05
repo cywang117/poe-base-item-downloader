@@ -19,7 +19,7 @@ Script to download Path of Exile's base item art off the PoE Wiki.
     * Alternatively, navigate to `base_items.min.json` in his project directory and download just that file.
 4. `mkdir data`
 5. Copy `base_items.min.json` from `/RePoE/RePoE/data` into `/data`
-6. `node getBaseItemPNGs.js` to run script
+6. `npm run dl` or `node getBaseItemPNGs.js` to run script
 
 ---
 
