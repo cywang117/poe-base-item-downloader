@@ -1,0 +1,27 @@
+{
+  "name": "poe-base-item-downloader",
+  "version": "1.0.0",
+  "description": "Script to download Path of Exile's base item art off the PoE Wiki",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "node getBaseItemPNGs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cywang117/poe-base-item-downloader.git"
+  },
+  "keywords": [
+    "path-of-exile",
+    "poe"
+  ],
+  "author": "Christina Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cywang117/poe-base-item-downloader/issues"
+  },
+  "homepage": "https://github.com/cywang117/poe-base-item-downloader#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
